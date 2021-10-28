@@ -12,7 +12,7 @@ export default function About(){
 		  <ListGroup>
 		  	<ListGroup.Item>I like cheese</ListGroup.Item>
 		  	<ListGroup.Item>I like card games</ListGroup.Item>
-		  	<ListGroup.Item>I like cactuses</ListGroup.Item>
+		  	<ListGroup.Item>I like cacti</ListGroup.Item>
 		  </ListGroup>
 		</Jumbotron>
 		
